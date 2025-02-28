@@ -12,3 +12,7 @@
  - Tailwind CSS (for styling)
  - OMDB API (for fetching movie data)
  - Axios (for API requests)
+
+## Desktop
+
+
